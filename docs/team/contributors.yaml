@@ -7,4 +7,48 @@
 #   team: active
 #   last-check-in: 2022-1
 
+
+- name: Damián Avila
+  handle: "@damianavila"
+  affiliation: UMSI and 2i2c
+  team: active
+  last-check-in: 2022-01
+
+- name: Sylvain Corlay
+  handle: "@SylvainCorlay"
+  affiliation: QuantStack
+  team: active
+  last-check-in: 2022-01
+
+- name: Afshin Darian
+  handle: "@afshin"
+  affiliation: Two Sigma
+  team: active
+  last-check-in: 2022-01
+
+- name: Brian Granger
+  handle: "@ellisonbg"
+  affiliation: Amazon Web Services
+  team: active
+  last-check-in: 2022-01
+
+- name: Paul Ivanov
+  handle: "@ivanov"
+  affiliation: Noteable
+  team: active
+  last-check-in: 2022-01
+
+- name: Zach Sailer
+  handle: "@Zsailer"
+  affiliation: Apple
+  team: active
+  last-check-in: 2022-01
+  
+- name: Jeremy Tuloup
+  handle: "@jtpio"
+  affiliation: Quantstack
+  team: inactive
+  last-check-in: 2022-01
+ 
+
 # Inactive team members at the end, also alphabetical
