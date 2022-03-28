@@ -26,6 +26,12 @@
   team: active
   last-check-in: 2022-01
 
+- name: Kevin Goldsmith
+  handle: "@kevingoldsmith"
+  affiliation: Anaconda
+  team: active
+  last-check-in: 2022-03
+
 - name: Brian Granger
   handle: "@ellisonbg"
   affiliation: Amazon Web Services
