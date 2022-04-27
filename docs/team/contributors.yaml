@@ -44,6 +44,12 @@
   team: active
   last-check-in: 2022-01
 
+- name: Isabela Presedo-Floyd
+  handle: "@isabela-pf"
+  affiliation: Quansight Labs
+  team: active
+  last-check-in: 2022-04
+
 - name: Zach Sailer
   handle: "@Zsailer"
   affiliation: Apple
