@@ -14,6 +14,12 @@
   team: active
   last-check-in: 2022-01
 
+- name: Eric Charles
+  handle: "@echarles"
+  affiliation: Datalayer, Quansight, Anaconda
+  team: active
+  last-check-in: 2022-05
+
 - name: Sylvain Corlay
   handle: "@SylvainCorlay"
   affiliation: QuantStack
