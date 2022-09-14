@@ -12,31 +12,37 @@
   handle: "@damianavila"
   affiliation: UMSI and 2i2c
   team: active
-  last-check-in: 2022-07
+  last-check-in: 2022-09
 
 - name: Eric Charles
   handle: "@echarles"
   affiliation: Datalayer, Quansight, Anaconda
   team: active
-  last-check-in: 2022-07
+  last-check-in: 2022-09
 
 - name: Sylvain Corlay
   handle: "@SylvainCorlay"
   affiliation: QuantStack
   team: active
-  last-check-in: 2022-07
+  last-check-in: 2022-09
 
 - name: Afshin Darian
   handle: "@afshin"
   affiliation: QuantStack
   team: active
-  last-check-in: 2022-07
+  last-check-in: 2022-09
+
+- name: Eric Gentry
+  handle: "@ericsnekbytes"
+  affiliation: Anaconda
+  team: active
+  last-check-in: 2022-09
 
 - name: Kevin Goldsmith
   handle: "@kevingoldsmith"
   affiliation: Anaconda
   team: active
-  last-check-in: 2022-07
+  last-check-in: 2022-09
 
 - name: Brian Granger
   handle: "@ellisonbg"
@@ -54,32 +60,32 @@
   handle: "@isabela-pf"
   affiliation: Quansight Labs
   team: active
-  last-check-in: 2022-07
+  last-check-in: 2022-09
 
 
 - name: Rosio Reyes
   handle: "@RRosio"
   affiliation: Anaconda
   team: active
-  last-check-in: 2022-07
+  last-check-in: 2022-09
 
 - name: Zach Sailer
   handle: "@Zsailer"
   affiliation: Apple
   team: active
-  last-check-in: 2022-07
+  last-check-in: 2022-09
 
 - name: Steve Silvester
   handle: "@blink1073"
   affiliation: MongoDB
   team: active
-  last-check-in: 2022-07
+  last-check-in: 2022-09
 
 - name: Jeremy Tuloup
   handle: "@jtpio"
   affiliation: Quantstack
   team: active
-  last-check-in: 2022-07
+  last-check-in: 2022-09
  
 
 # Inactive team members at the end, also alphabetical
