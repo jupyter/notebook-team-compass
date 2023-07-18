@@ -50,6 +50,12 @@
   team: active
   last-check-in: 2022-04
 
+- name: Andrii Ieroshenko 
+  handle: "@andrii-i"
+  affiliation: Amazon Web Services
+  team: active
+  last-check-in: 2023-07
+
 - name: Paul Ivanov
   handle: "@ivanov"
   affiliation: Noteable
@@ -61,7 +67,6 @@
   affiliation: Quansight Labs
   team: active
   last-check-in: 2022-09
-
 
 - name: Rosio Reyes
   handle: "@RRosio"
